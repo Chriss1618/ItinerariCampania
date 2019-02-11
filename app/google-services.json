@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "376968211102",
+    "firebase_url": "https://idn-2018.firebaseio.com",
+    "project_id": "idn-2018",
+    "storage_bucket": "idn-2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376968211102:android:a7c6071f89e22306",
+        "android_client_info": {
+          "package_name": "app.chris.esercitazione"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376968211102-nuh6rt2244dccjs4kgkosnbqoddsjt3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCzo_oSy160S82pHz6Lg3ZMumuCddGZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376968211102:android:77dba1322ae8dd94",
+        "android_client_info": {
+          "package_name": "com.example.chris.prima_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376968211102-h67le4j4l8kbp1p0po094lrvkjovormk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chris.prima_app",
+            "certificate_hash": "e22e13117e8206866b8dac5cf25e8d1a9449bd95"
+          }
+        },
+        {
+          "client_id": "376968211102-nuh6rt2244dccjs4kgkosnbqoddsjt3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCzo_oSy160S82pHz6Lg3ZMumuCddGZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376968211102-nuh6rt2244dccjs4kgkosnbqoddsjt3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376968211102:android:b63b267a665186ee",
+        "android_client_info": {
+          "package_name": "com.itineraricampania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376968211102-9oqe7b8s5gbvea6qh245e3e3jigpfs4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itineraricampania",
+            "certificate_hash": "7ff2bb433fa3c310e4977a8bcbd5f61cb7c11103"
+          }
+        },
+        {
+          "client_id": "376968211102-nuh6rt2244dccjs4kgkosnbqoddsjt3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCzo_oSy160S82pHz6Lg3ZMumuCddGZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376968211102-nuh6rt2244dccjs4kgkosnbqoddsjt3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

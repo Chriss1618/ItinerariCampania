@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <group
+        android:checkableBehavior="single"
+        android:enabled="true">
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_map_black_24dp"
+            android:title="Viaggia" />
+        <item
+            android:id="@+id/nav_hotel"
+            android:icon="@drawable/ic_hotel_black"
+            android:title="Hotel" />
+        <item
+            android:id="@+id/nav_Ristorante"
+            android:icon="@drawable/ic_restaurant_black"
+            android:title="Ristorante" />
+
+
+
+
+    </group>
+
+    <item android:title="Strumenti">
+        <menu>
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_settings"
+                android:title="Impostazioni" />
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_assistenza"
+                android:title="Assistenza" />
+        </menu>
+    </item>
+
+</menu>
